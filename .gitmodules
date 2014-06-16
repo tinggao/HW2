@@ -1,0 +1,6 @@
+[submodule "CS169"]
+	path = CS169
+	url = https://github.com/tinggao/CS169.git
+[submodule "HW2"]
+	path = HW2
+	url = https://github.com/tinggao/CS169.git
